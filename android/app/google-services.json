@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "959002796102",
+    "project_id": "studio-1995531473-9005c",
+    "storage_bucket": "studio-1995531473-9005c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959002796102:android:f345519b9a72efd52a2a47",
+        "android_client_info": {
+          "package_name": "com.mushroom.mart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoTbAMNsPt4McU-IRAdsjJMImxNoKPUSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
